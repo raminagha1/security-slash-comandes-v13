@@ -134,4 +134,4 @@ client.on("messageCreate", message => {
   }
 })
 
-client.login("")
+client.login("MTA5MjE1Mjk4NDY1OTU3NDc4NQ.GZN68z.gQhoVsG3IcSiT6HxvycBAEe1EqdOLm3dhj7o5E")
